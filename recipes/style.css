@@ -1,0 +1,54 @@
+body {
+    background: lightslategray;
+    border-color: burlywood;
+    color: black;
+    font-family: "Times New Roman", Times, serif;
+    margin-left: 35px;
+    margin-top: 5px;
+    margin-bottom: 25px;
+}
+h1 {
+    color: yellowgreen;
+    text-align: center;
+    font-weight: bold;
+    font-style: normal;
+
+}
+h2 {
+    color: blue;
+}
+h3 {
+    color: rgb(255, 0, 0);
+    text-decoration-line: underline;
+}
+h4 {
+    color: aquamarine;
+}
+.para-1 {
+    color: brown;
+    font-style: italic;
+    font-weight: bold;
+}
+.para-2 {
+    color: black;
+    font-weight: bold;
+}
+.highlight {
+    background-color: white;
+    width: 350px;
+    margin-right: auto;
+}
+.inverted {
+    background-color: black;
+    color: rgb(53, 3, 235);
+}
+.add-color {
+    color: lawngreen;
+}
+.body-me {
+    background-color: darkgray;
+    font-weight: bold;
+    width: 1000px;
+    height: 50;
+    margin-right: auto;
+}
